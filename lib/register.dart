@@ -180,6 +180,8 @@ class _RegisterState extends State<Register> {
                               ],
                             );
                           });
+                      // _deleteItem();
+                      // print(_Data);
                     } catch (e) {
                       print("gagal");
                     }
